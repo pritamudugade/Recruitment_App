@@ -1,0 +1,6 @@
+# ML_app.py -- ML model
+
+# BERT 
+# bert_base.py ---
+# bert_new.py --- takes more time, more accurate
+# bert_weightage.py -- more accuracte, more time, separate weightages for each category 
